@@ -16,6 +16,9 @@
   
   h1 {
     font-size: 96px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+
   }
   
   h2 {
@@ -30,6 +33,9 @@
   p {
     font-size: 18px;
     line-height: 1.5;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500px;
+    color: grey;
   }
   
   .navigation-links {
@@ -40,6 +46,14 @@
   
   .navigation-links a {
     margin: 20px;
+  }
+
+  .nav-item {
+      font-weight: bold;
+  }
+
+  .header {
+      background-color: #f9f7fe;
   }
   
   .primary-link {
